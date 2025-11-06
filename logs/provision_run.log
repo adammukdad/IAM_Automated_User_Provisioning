@@ -1,0 +1,26 @@
+[2025-11-05 16:44:27] [INFO] Starting automated provisioning run...
+[2025-11-05 16:44:27] [CREATE] Account for Jordan Lee (jlee@example.com) — Dept: Finance, Role: Accountant
+[2025-11-05 16:44:27] [UPDATE] rchen@example.com — Dept: IT, Role: System Administrator
+[2025-11-05 16:44:27] [TERMINATE] tsmith@example.com (Taylor Smith) removed from system
+[2025-11-05 16:44:27] [INFO] Provisioning script completed successfully.
+[2025-11-05 16:49:29] [INFO] Starting automated provisioning run...
+[2025-11-05 16:49:29] [CREATE] Account for Jordan Lee (jlee@example.com) — Dept: Finance, Role: Accountant
+[2025-11-05 16:49:29] [UPDATE] rchen@example.com — Dept: IT, Role: System Administrator
+[2025-11-05 16:49:29] [TERMINATE] tsmith@example.com (Taylor Smith) removed from system
+[2025-11-05 16:49:29] [INFO] Provisioning script completed successfully.
+================================================================================
+[2025-11-05 16:54:15] [INFO] Starting automated provisioning run...
+[2025-11-05 16:54:15] [CREATE] Account for Jordan Lee (jlee@example.com) — Dept: Finance, Role: Accountant
+[2025-11-05 16:54:15] [UPDATE] rchen@example.com — Dept: IT, Role: System Administrator
+[2025-11-05 16:54:15] [TERMINATE] tsmith@example.com (Taylor Smith) removed from system
+[2025-11-05 16:54:15] [INFO] Provisioning script completed successfully.
+[2025-11-05 16:54:15] [SUMMARY] Created: 1 | Updated: 1 | Terminated: 1 | Unknown: 0
+================================================================================
+[2025-11-05 17:43:31] [AZURE] Starting Azure Entra ID simulation...
+[2025-11-05 17:43:31] [AZURE] Simulating Azure Entra ID 'create' action for jlee@example.com...
+[2025-11-05 17:43:31] [AZURE] Would create user Jordan Lee in Entra ID.
+[2025-11-05 17:43:31] [AZURE] Simulating Azure Entra ID 'update' action for rchen@example.com...
+[2025-11-05 17:43:31] [AZURE] Would update user rchen@example.com (role=System Administrator, dept=IT).
+[2025-11-05 17:43:31] [AZURE] Simulating Azure Entra ID 'terminate' action for tsmith@example.com...
+[2025-11-05 17:43:31] [AZURE] Would disable user tsmith@example.com in Entra ID.
+[2025-11-05 17:43:31] [AZURE] Azure Entra ID simulation complete.

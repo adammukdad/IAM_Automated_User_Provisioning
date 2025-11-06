@@ -1,0 +1,4 @@
+action,first_name,last_name,department,role,email
+create,Jordan,Lee,Finance,Accountant,jlee@example.com
+update,Riley,Chen,IT,System Administrator,rchen@example.com
+terminate,Taylor,Smith,Sales,Account Executive,tsmith@example.com
