@@ -1,4 +1,4 @@
-# Automated User Provisioning — IAM Portfolio Project
+# Automated User Provisioning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20PowerShell-lightgrey)
